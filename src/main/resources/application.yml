@@ -1,0 +1,13 @@
+server:
+  port: 9000
+
+spring:
+  application:
+    name: intrinsic-value-calculator
+
+logging:
+  level:
+    root: INFO
+    com.example: DEBUG
+
+
