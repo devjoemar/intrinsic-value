@@ -137,7 +137,7 @@ The intrinsic value per share is compared with the current market price (current
 
 ### 📥 Request
 
-To calculate the intrinsic value of a stock, send a POST request to `/api/calculateIntrinsicValue` with the following JSON payload:
+To calculate the intrinsic value of a stock, send a POST request to `/api/v1/intrinsic-value/calculate` with the following JSON payload:
 
 ```json
 {
